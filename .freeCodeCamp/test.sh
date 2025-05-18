@@ -2,8 +2,11 @@
 #Bingo Number Generator
 echo -e "\n~~ Bingo Number Generator ~~\n"
 
-NUMBER=$(( RANDOM % 75 + 1 ))
+NUMBER=$(( RANDOM % 15 + 1 ))
 echo $NUMBER
 
 TEXT="The next number is, "
-echo $TEXT
+if (( NUMBER <= 15 ))
+then
+  echo $TEXT B:$NUMBER
+fi
