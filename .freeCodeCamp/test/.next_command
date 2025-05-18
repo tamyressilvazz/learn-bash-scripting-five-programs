@@ -601,3 +601,4 @@ echo $NUMBER
 echo $I
 clear
 (( I++ ))
+echo $I
