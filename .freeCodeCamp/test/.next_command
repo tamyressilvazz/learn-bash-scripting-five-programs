@@ -572,3 +572,8 @@ clear
 touch bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
+git status
+git add .
+clear
+rm bad_file.txt
+git add .
