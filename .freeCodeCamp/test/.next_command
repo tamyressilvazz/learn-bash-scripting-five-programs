@@ -553,3 +553,5 @@ clear
 ./countdown.sh
 clear
 ./countdown.sh 10
+clear
+./countdown.sh 3
