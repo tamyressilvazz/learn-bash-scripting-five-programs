@@ -612,3 +612,6 @@ $I=15
 CLEAR
 clear
 echo $(( I + 4 ))
+echo 15
+echo I
+echo $I
