@@ -371,3 +371,5 @@ bad_file.txt
 touch bad_file.txt
 bad_file.txt
 [[ -a bad_file.txt ]]
+git status
+git add .
