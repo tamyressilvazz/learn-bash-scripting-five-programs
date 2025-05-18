@@ -618,3 +618,4 @@ echo $I
 clear
 $(( I - 6 ))
 J=$(( I - 6 ))
+echo $J
