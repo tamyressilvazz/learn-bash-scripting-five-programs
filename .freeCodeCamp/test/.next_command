@@ -184,3 +184,4 @@ git add .
 git status
 git commit -m "another file sh"
 git push
+./countdown.sh
