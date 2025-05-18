@@ -639,3 +639,4 @@ echo $(( RANDOM % 75 + 1))
 ./bingo.sh
 CLEAR
 clear
+help let
