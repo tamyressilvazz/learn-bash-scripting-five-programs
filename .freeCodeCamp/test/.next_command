@@ -567,3 +567,4 @@ clear
 clear
 help
 help while
+./countdown.sh 5
