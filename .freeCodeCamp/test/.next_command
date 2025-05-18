@@ -502,3 +502,10 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 [[ -x countdown.sh || 5 -gt 0 ]]
 [[ -x countdown.sh && 5 -gt 0 ]]
 chmod +x countdown.sh
+clear
+[[ -x countdown.sh && 1 -gt 0 ]]
+echo $1?
+clear
+$1?
+clear
+./countdown.sh 1
