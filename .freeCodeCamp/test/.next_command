@@ -581,3 +581,6 @@ git commit -m "new file"
 git push
 clear
 printenv
+clear
+printenv
+echo $LANG
