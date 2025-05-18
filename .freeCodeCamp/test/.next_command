@@ -599,3 +599,5 @@ echo
 ./bingo.sh echo
 echo $NUMBER
 echo $I
+clear
+(( I++ ))
