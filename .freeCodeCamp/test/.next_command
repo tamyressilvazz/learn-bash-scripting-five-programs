@@ -259,3 +259,4 @@ help
 man
 man if
 help if
+./countdown.sh arg1
