@@ -602,3 +602,4 @@ echo $I
 clear
 (( I++ ))
 echo $I
+help let
