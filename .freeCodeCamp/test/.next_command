@@ -615,3 +615,6 @@ echo $(( I + 4 ))
 echo 15
 echo I
 echo $I
+clear
+$(( I - 6 ))
+J=$(( I - 6 ))
