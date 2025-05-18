@@ -594,3 +594,8 @@ echo $RANDOM
 clear
 ./bingo.sh I=0
 I=0
+echo $?
+echo
+./bingo.sh echo
+echo $NUMBER
+echo $I
