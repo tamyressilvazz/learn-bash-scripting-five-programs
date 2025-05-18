@@ -343,3 +343,4 @@ help if [[ $1 -lt 5 ]]
 help [[
 help
 help test
+./countdown.sh 5
