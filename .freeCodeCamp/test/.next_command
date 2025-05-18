@@ -524,3 +524,32 @@ man
 man sleep
 clear
 sleep 3
+./countdown.sh sleep
+sleep 1
+./countdown.sh sleep 1
+./countdown.sh
+clear
+./countdown.sh
+./countdown.sh 1
+clear
+./countdown.sh
+./countdown.sh
+./countdown.sh
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh 10
+clear
+./countdown.sh 10
+clear
+./countdown.sh 10
+clear
+help
+help sleep
+clear
+./countdown.sh
+./countdown.sh 1
+./countdown.sh 1
+./countdown.sh
+clear
+./countdown.sh 10
