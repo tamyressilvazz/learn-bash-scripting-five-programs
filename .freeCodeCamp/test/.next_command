@@ -172,3 +172,10 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./questionnaire.sh
 clear
 touch countdown.sh
+chmod +x
+chmod +x ./questionnaire.sh
+chmod +x ./questionnaire.sh
+chmod +x questionnaire.sh
+chmod +x questionnaire.sh
+clear
+chmod +x countdown.sh
