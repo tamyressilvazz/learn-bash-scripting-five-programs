@@ -88,3 +88,7 @@ echo --help
 git init
 git status
 git add .
+git status
+git commit -m "save the progress"
+git push -u https://github.com/tamyressilvazz/learn-bash-scripting-five-programs.git
+man echo
