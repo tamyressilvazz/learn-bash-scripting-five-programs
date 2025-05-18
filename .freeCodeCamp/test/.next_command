@@ -577,3 +577,7 @@ git add .
 clear
 rm bad_file.txt
 git add .
+git commit -m "new file"
+git push
+clear
+printenv
