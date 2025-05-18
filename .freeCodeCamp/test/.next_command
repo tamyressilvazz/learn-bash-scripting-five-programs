@@ -584,3 +584,4 @@ printenv
 clear
 printenv
 echo $LANG
+declare -p
