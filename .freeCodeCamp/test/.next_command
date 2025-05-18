@@ -633,3 +633,4 @@ declare -p RANDOM
 clear
 echo RANDOM % 75
 echo $(( RANDOM % 75 ))
+echo $(( RANDOM % 75 + 1))
