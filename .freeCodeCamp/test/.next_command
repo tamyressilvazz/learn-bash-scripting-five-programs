@@ -588,3 +588,5 @@ declare -p
 clear
 echo RANDOM
 echo $RANDOM
+./bingo.sh
+./bingo.sh
