@@ -341,3 +341,5 @@ help if
 help if
 help if [[ $1 -lt 5 ]]
 help [[
+help
+help test
