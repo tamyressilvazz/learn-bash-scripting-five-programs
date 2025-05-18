@@ -13,4 +13,5 @@ echo Hello  $NAME from $LOCATION.
 QUESTION3="What's your favorite coding website?"
 echo $QUESTION3
 read WEBSITE
+echo -e "\n"
 echo Hello $NAME from $LOCATION. I learned that your favorite coding website is $WEBSITE!
