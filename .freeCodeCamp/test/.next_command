@@ -627,3 +627,6 @@ clear
 declare -p
 clear
 declare -p J
+declare -p J
+clear
+declare -p RANDOM
