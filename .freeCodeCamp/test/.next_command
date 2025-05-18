@@ -179,3 +179,5 @@ chmod +x questionnaire.sh
 chmod +x questionnaire.sh
 clear
 chmod +x countdown.sh
+git status
+git add .
