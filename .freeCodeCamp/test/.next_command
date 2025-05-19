@@ -880,3 +880,4 @@ chmod +x five.sh
 ./five.sh
 clear
 ./five.sh 3
+clear
