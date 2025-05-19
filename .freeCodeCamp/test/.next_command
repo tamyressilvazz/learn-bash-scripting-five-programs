@@ -807,3 +807,5 @@ help until
 clear
 ./fortune.sh
 help [[ ? ]]
+[[ -n hello ]]
+[[ hello == hello ]]
