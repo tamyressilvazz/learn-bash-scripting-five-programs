@@ -826,3 +826,4 @@ echo $VAR
 [[ "hello world" =~ \?$ ]]
 __vsc_prompt_cmd_original
 [[ $VAR =~ \?$ ]]
+[[ test? =~ \?$ ]]
