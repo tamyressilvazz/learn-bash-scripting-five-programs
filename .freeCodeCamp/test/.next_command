@@ -820,3 +820,4 @@ git commit -m "function"
 git push
 clear
 [[ "hello world" =~ ^h.+d$ ]]
+VAR="hello world"
