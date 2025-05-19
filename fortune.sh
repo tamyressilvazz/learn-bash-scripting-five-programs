@@ -16,7 +16,7 @@ GET_FORTUNE(){
 }
 
 
-until [[ $QUESTION == test? ]]
+until [[ $QUESTION =~ \?$ ]]
 do
   GET_FORTUNE
 done
