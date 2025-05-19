@@ -804,3 +804,5 @@ help function
 ./fortune.sh
 help
 help until
+clear
+./fortune.sh
