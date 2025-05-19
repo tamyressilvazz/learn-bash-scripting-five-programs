@@ -719,3 +719,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 touch fortune.sh
 chmod +x fortune.sh
 ./fortune.sh
+ARR=("a" "b" "c")
