@@ -809,3 +809,4 @@ clear
 help [[ ? ]]
 [[ -n hello ]]
 [[ hello == hello ]]
+[[ hello == world ]]
