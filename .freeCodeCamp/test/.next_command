@@ -827,3 +827,4 @@ echo $VAR
 __vsc_prompt_cmd_original
 [[ $VAR =~ \?$ ]]
 [[ test? =~ \?$ ]]
+./fortune.sh
