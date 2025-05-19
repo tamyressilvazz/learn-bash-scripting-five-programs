@@ -875,3 +875,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./fortune.sh
 clear
 touch five.sh
+chmod +x five.sh
