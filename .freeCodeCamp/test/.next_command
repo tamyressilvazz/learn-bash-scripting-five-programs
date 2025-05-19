@@ -806,3 +806,4 @@ help
 help until
 clear
 ./fortune.sh
+help [[ ? ]]
