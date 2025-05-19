@@ -883,3 +883,4 @@ clear
 clear
 ./five.sh 3
 help
+help type
