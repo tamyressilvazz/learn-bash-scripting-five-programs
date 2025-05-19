@@ -816,3 +816,7 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 [[ "hello world" =~ ^h ]]
 git add .
+git commit -m "function"
+git push
+clear
+[[ "hello world" =~ ^h.+d$ ]]
