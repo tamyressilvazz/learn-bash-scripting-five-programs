@@ -8,7 +8,6 @@ echo -e "\n"
 echo ${RESPONSES[5]}
 
 N=$(( RANDOM % 6 ))
-echo -e "\n${RESPONSES[$N]}"
 
 GET_FORTUNE again
 GET_FORTUNE(){
@@ -24,7 +23,9 @@ GET_FORTUNE(){
   fi
 }
 
+GET_FORTUNE
 until [[ $QUESTION =~ \?$ ]]
 do
-  GET_FORTUNE
+  GET_FORTUNE again
 done
+echo -e "\n${RESPONSES[$N]}"
