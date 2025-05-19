@@ -823,3 +823,6 @@ clear
 VAR="hello world"
 echo $VAR
 [[ $VAR == "hello world" ]]
+[[ "hello world" =~ \?$ ]]
+__vsc_prompt_cmd_original
+[[ $VAR =~ \?$ ]]
