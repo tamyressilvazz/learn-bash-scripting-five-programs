@@ -15,13 +15,13 @@ GET_FORTUNE(){
   read QUESTION
 
   if [[ ! $1 ]]
-then
-  echo Ask a yes or no question:
-else
-  echo Try again. Make sure it ends with a question mark:
-fi
+  then
+    echo Ask a yes or no question:
+  else
+    echo Try again. Make sure it ends with a question mark:
+  fi
 }
-
+GET_FORTUNE again
 
 until [[ $QUESTION =~ \?$ ]]
 do
