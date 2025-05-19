@@ -821,3 +821,4 @@ git push
 clear
 [[ "hello world" =~ ^h.+d$ ]]
 VAR="hello world"
+echo $VAR
